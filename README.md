@@ -71,4 +71,4 @@ and many more people who aren't mentioned here, but may be found in [Contributor
 
 ## License
 
-This userbot licensed on [Raphielscape Public License](https://github.com/MoveAngel/One4uBot/blob/sql-extended/LICENSE) - Version 1.d, February 2020
+This userbot licensed on [Raphielscape Public License](https://github.com/Razer-Cynosa/Core-i9/blob/sql-extended/LICENSE) - Version 1.d, February 2020
