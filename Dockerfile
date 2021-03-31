@@ -1,4 +1,4 @@
-FROM movecrew/Core-i9:alpine-latest
+FROM movecrew/core-i9:alpine-latest
 
 RUN mkdir /Core-i9 && chmod 777 /Core-i9
 ENV PATH="/Core-i9/bin:$PATH"
